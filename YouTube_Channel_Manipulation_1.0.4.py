@@ -9,7 +9,7 @@ Description: Using Google CLoud API Key for YouTube, this script extract followi
 3 - Number of Total Views so far
 4 - Total Comments by the Audience.
 
-After extrating all of the 4 attributes, the results are stored in a CSV File
+After extrating all of the 4 attributes, the results are stored in a CSV File.
 
 """
 
